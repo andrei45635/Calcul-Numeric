@@ -1,0 +1,2 @@
+lab 12 (sapt 12): pb1-7 (toate) 
+rutine: gauss-legendre, gauss-chebyshev, gauss-jacobi, gauss-laguerre

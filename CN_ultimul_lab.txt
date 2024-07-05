@@ -1,0 +1,5 @@
+de studiat demonstratia convergentei patratice de pe metoda tangentei wikipedia 
+tema: 
+-> ex 1.4 (metoda secantei, metoda lui Newton)
+-> ex 2.3 (metoda lui Newton - ecuatii neliniare)
+ecuatia: x + cos(x) = 0 (rutina MATLAB solve, comparare rezultat cu solve cu metoda lui Newton/metoda secantei pe orice interval)

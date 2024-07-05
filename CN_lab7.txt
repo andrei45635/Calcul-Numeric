@@ -1,0 +1,2 @@
+peste 3 sapt (sapt 10): pb 1, 2, 3 + probleme practice pb1 , pb2, pb3 
+pol Hermite va fi gasit ca in pseudocod -> alg extrage doar niste coeficienti (toate Qurile), dar alg nu face si desfacerile de paranteze => va trebui sa determin si cat is coeficientii ca la final pe baza vectorului de coef de la pol Hermite sa obtinem prin MATLAB polinomul efectiv pe care sa il desenam pe un interval ales

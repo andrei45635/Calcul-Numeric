@@ -1,0 +1,4 @@
+peste 2 sapt: toate problemele (probleme 1-5 si probleme practice 1-4) din pdf-ul lab 6
+functia studiata este functia exponentiala (pb 3) 
+L_n_k sunt polinoamele fundamentale Lagrange
+polinomul de interpolare al lui Lagrange pentru un polinom este polinomul insusi

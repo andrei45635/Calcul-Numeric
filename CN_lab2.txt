@@ -1,0 +1,4 @@
+peste 2 sapt: P1, P2, P4 (cel putin 1 test pentru fiecare problema, generare matrici)
+
+->pt rezolvarea sistemelor de ecuatii liniare, in cazul in care matricea sistemului este densa, se folosesc metode directe (eliminarea Gaussiana, Gauss-Jordan, LUP decomposition, QR, Cholesky)
+->pt rezolvarea sistemelor de ecuatii liniare, in cazul in care matricea sistemului este rara, se folosesc metode iterative (Jacobi method, Gauss-Seidel method, SOR method)

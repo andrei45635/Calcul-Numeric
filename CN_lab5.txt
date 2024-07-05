@@ -1,0 +1,9 @@
+peste 2 sapt: P1, P2, P4
+structura ex 3 pt exemple 
+diag (MATLAB) => diag(nr) (cred ca) pune elemente doar pe diagonala principala
+testare pe matrici mari (i.e. 9x9, 10x10)
+
+
+http://localhost:8080/auth/spotify/callback#access_token=BQD0dG5XxJzS3gBEMrbdTjfoNA-mK4i3A4XYSkj7YSjyHEcjR_8QmmAsK5JECYur-34wDNIWeNdH57xweA6p3AtzZNSvvaoBaz-iI7SK6h1i_A5LywnoBbHMzvoSuSw6S0l81S9DbR4CUUrApYxKYmcBkK8u2efMzY2hFChTFQ6rj85K4xALI2EmHD-RojZVSZxWJioSTH7oVusIUEazR2LeJM0UrJiPJIjjFG9-NdTuzQwoGIbq-53V-_XwqAcKnXu56h66kIqZsub-H6gDCXvW1F0cQhx6KgLBSQrVKzON-Ss&token_type=Bearer&expires_in=3600&state=sTqWJaGGVzOojiYm
+
+'user-read-private user-read-email user-read-playback-state user-modify-playback-state user-read-currently-playing app-remote-control streaming playlist-read-private playlist-read-collaborative playlist-modify-public user-follow-read user-read-playback-position user-top-read user-read-recently-played user-library-modify user-library-read'

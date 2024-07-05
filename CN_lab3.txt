@@ -1,0 +1,4 @@
+tema (peste 2 sapt): 1 (Wilson), 2 (a, b), 3
+probleme rezolvate in culegerea din Teams-ul Albisoru, si in Teams-ul mare
+numar de conditionare in problema -> L3.png (formule)
+-> masura prin care cuantificam senzitivitatea unei probleme numerice (numar cat mai mic posibil) 
